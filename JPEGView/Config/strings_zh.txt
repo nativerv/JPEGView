@@ -206,7 +206,7 @@ Show/hide navigation panel	显示/隐藏巡览面板
 About JPEGView...	关于 JPEGView...
 SIMD mode used:	SIMD 模式下使用:
 Number of CPU cores used:	所使用的 CPU 核心数量:
-Licensed under the GNU general public license (GPL), see readme file for details:	基于 GNU General Public License (GPL) 授权，请参阅自述档案的详细资讯:
+This is the fork of the original JPEGView located here: https://sourceforge.net/projects/jpegview/. Homepage of the fork: https://github.com/NativeRV/JPEGView. Licensed under the GNU general public license (GPL), see readme file for details:	基于 GNU General Public License (GPL) 授权，请参阅自述档案的详细资讯:
 Project home page:	专案首页:
 Show first image in folder	显示资料夹中的第一个图像
 Show previous image	显示上一个图像

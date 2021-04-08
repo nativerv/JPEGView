@@ -203,7 +203,7 @@ Show/hide navigation panel	Προβολή/απόκρυψη του πάνελ π�
 About JPEGView...	Για το JPEGView...
 SIMD mode used:	Χρήση SIMD mode:
 Number of CPU cores used:	Αριθμός των CPU:
-Licensed under the GNU general public license (GPL), see readme file for details:	Licensed under the GNU general public license (GPL), see readme file for details:
+This is the fork of the original JPEGView located here: https://sourceforge.net/projects/jpegview/. Homepage of the fork: https://github.com/NativeRV/JPEGView. Licensed under the GNU general public license (GPL), see readme file for details:	This is the fork of the original JPEGView located here: https://sourceforge.net/projects/jpegview/. Homepage of the fork: https://github.com/NativeRV/JPEGView. Licensed under the GNU general public license (GPL), see readme file for details:
 Project home page:	Αρχική σελίδα του πρότζεκτ:
 Show first image in folder	Δείξε την πρώτη εικόνα στο φάκελο
 Show previous image	Δείξε την προηγούμενη εικόνα

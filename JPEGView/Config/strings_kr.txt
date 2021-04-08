@@ -203,7 +203,7 @@ Show/hide navigation panel	탐색 패널 보이기/숨기기
 About JPEGView...	JPEGView 정보...
 SIMD mode used:	사용된 SIMD 모드:
 Number of CPU cores used:	사용된 CPU 코어의 수:
-Licensed under the GNU general public license (GPL), see readme file for details:	GNU General Public License (GPL) 라이센스, 상세 내용은 readme 파일을 보십시오:
+This is the fork of the original JPEGView located here: https://sourceforge.net/projects/jpegview/. Homepage of the fork: https://github.com/NativeRV/JPEGView. Licensed under the GNU general public license (GPL), see readme file for details:	GNU General Public License (GPL) 라이센스, 상세 내용은 readme 파일을 보십시오:
 Project home page:	프로젝트 홈페이지:
 Show first image in folder	폴더의 처음
 Show previous image	이전

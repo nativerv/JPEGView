@@ -206,7 +206,7 @@ Show/hide navigation panel	ナビゲーションパネルを表示/非表示
 About JPEGView...	JPEGViewについて
 SIMD mode used:	SIMDモード使用:
 Number of CPU cores used:	CPUコア数:
-Licensed under the GNU general public license (GPL), see readme file for details:	GNU general public license (GPL)に準拠 詳細はreadmeをお読みください:
+This is the fork of the original JPEGView located here: https://sourceforge.net/projects/jpegview/. Homepage of the fork: https://github.com/NativeRV/JPEGView. Licensed under the GNU general public license (GPL), see readme file for details:	GNU general public license (GPL)に準拠 詳細はreadmeをお読みください:
 Project home page:	プロジェクトのWebサイト:
 Show first image in folder	フォルダー内の最初の画像を表示
 Show previous image	前の画像を表示

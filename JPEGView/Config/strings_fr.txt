@@ -203,7 +203,7 @@ Show/hide navigation panel	Afficher/masquer la barre de navigation
 About JPEGView...	A propos de JPEGView...
 SIMD mode used:	Mode SIMD utilisé :
 Number of CPU cores used:	Nombre de coeurs de processeur utilisés:
-Licensed under the GNU general public license (GPL), see readme file for details:	Sous licence GNU-GPL, voir le fichier README pour plus de détails :
+This is the fork of the original JPEGView located here: https://sourceforge.net/projects/jpegview/. Homepage of the fork: https://github.com/NativeRV/JPEGView. Licensed under the GNU general public license (GPL), see readme file for details:	Sous licence GNU-GPL, voir le fichier README pour plus de détails :
 Project home page:	Page d'accueil du projet :
 Show first image in folder	Première image du dossier
 Show previous image	Image précédente

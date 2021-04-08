@@ -204,7 +204,7 @@ Show/hide navigation panel	Afişează / Ascunde Panoul de navigare
 About JPEGView...	Despre JPEGView...
 SIMD mode used:	Modul folosit SIMD:
 Number of CPU cores used:	Numarul de nuclee de procesor utilizate:
-Licensed under the GNU general public license (GPL), see readme file for details:	Licenţa sub GNU,s licenţă publică generală (GPL), vezi fişierul "readme" pentru detalii:
+This is the fork of the original JPEGView located here: https://sourceforge.net/projects/jpegview/. Homepage of the fork: https://github.com/NativeRV/JPEGView. Licensed under the GNU general public license (GPL), see readme file for details:	Licenţa sub GNU,s licenţă publică generală (GPL), vezi fişierul "readme" pentru detalii:
 Project home page:	Pagina de start a proiectului:
 Show first image in folder	Afişează prima imagine din director
 Show previous image	Afişează imaginea anterioară

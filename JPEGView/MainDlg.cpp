@@ -773,7 +773,25 @@ LRESULT CMainDlg::OnLButtonUp(UINT /*uMsg*/, WPARAM /*wParam*/, LPARAM lParam, B
 	} else if (m_pCropCtl->IsCropping()) {
 		m_pCropCtl->EndCropping();
 	} else {
-		m_pPanelMgr->OnMouseLButton(MouseEvent_BtnUp, GET_X_LPARAM(lParam), GET_Y_LPARAM(lParam));
+		// The original left click up behaviour
+		//m_pPanelMgr->OnMouseLButton(MouseEvent_BtnUp, GET_X_LPARAM(lParam), GET_Y_LPARAM(lParam));
+
+		RECT clientRect;
+		GetClientRect(&clientRect); // Mutate clientRect with screen coordinates of upper-left and lower-right corners of the client area
+									// The left and top members are zero. The right and bottom members contain the width and height of the window.
+		
+		const int clientWidth = clientRect.right - clientRect.left; // Calculate width of the window 
+		const int halfClientWidth = clientWidth / 2;
+
+		// If clicked on the:
+		//   right side of the window -> go to next image;
+		//   left  side of the window -> go to prev image;
+		if (GET_X_LPARAM(lParam) > halfClientWidth) {
+			GotoImage(POS_Next);
+		}
+		else {
+			GotoImage(POS_Previous);
+		}
 	}
 	::ReleaseCapture();
 	InvalidateHelpDlg();

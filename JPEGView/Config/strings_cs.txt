@@ -204,7 +204,7 @@ Show/hide navigation panel	Zobrazit/skrýt ovládací panel
 About JPEGView...	O JPEGView...
 SIMD mode used:	SIMD mód:
 Number of CPU cores used:	Počet užitých jader CPU:
-Licensed under the GNU general public license (GPL), see readme file for details:	Licencováno dle „GNU general public license (GPL)“,  podrobnosti obsahuje soubor readme:
+This is the fork of the original JPEGView located here: https://sourceforge.net/projects/jpegview/. Homepage of the fork: https://github.com/NativeRV/JPEGView. Licensed under the GNU general public license (GPL), see readme file for details:	Licencováno dle „GNU general public license (GPL)“,  podrobnosti obsahuje soubor readme:
 Project home page:	Domácí stránka projektu:
 Show first image in folder	Zobrazit první obrázek ve složce
 Show previous image	Zobrazit předchozí obrázek

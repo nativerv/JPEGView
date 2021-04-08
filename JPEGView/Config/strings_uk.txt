@@ -209,7 +209,7 @@ Show/hide navigation panel	Показати/приховати панель на
 About JPEGView...	Про програму JPEGView...
 SIMD mode used:	Режим SIMD:
 Number of CPU cores used:	Використовується ядер ЦП:
-Licensed under the GNU general public license (GPL), see readme file for details:	Ліцензія: GNU General Public License (GPL), див. подробиці у файлі:
+This is the fork of the original JPEGView located here: https://sourceforge.net/projects/jpegview/. Homepage of the fork: https://github.com/NativeRV/JPEGView. Licensed under the GNU general public license (GPL), see readme file for details:	Ліцензія: GNU General Public License (GPL), див. подробиці у файлі:
 Project home page:	Домашня сторінка проекту:
 Show first image in folder	Перше зображення в папці
 Show previous image	Попереднє зображення

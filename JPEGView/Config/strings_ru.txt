@@ -210,7 +210,7 @@ About JPEGView...	О программе JPEGView...
 About JPEGView (64 bit version)...	О программе JPEGView (64-разрядная версия)...
 SIMD mode used:	Режим SIMD:
 Number of CPU cores used:	Используется ядер ЦП:
-Licensed under the GNU general public license (GPL), see readme file for details:	Лицензия GNU General Public License (GPL),    см. файл с документацией:
+This is the fork of the original JPEGView located here: https://sourceforge.net/projects/jpegview/. Homepage of the fork: https://github.com/NativeRV/JPEGView. Licensed under the GNU general public license (GPL), see readme file for details:	Лицензия GNU General Public License (GPL),    см. файл с документацией:
 Project home page:	Сайт проекта:
 Show first image in folder	Первое изображение в папке
 Show previous image	Предыдущее изображение
